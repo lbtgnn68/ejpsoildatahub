@@ -25,7 +25,7 @@ identification:
       - Italy
       vocabulary:
         name: Country
-        url: http://publications.europa.eu/resource/authority/country
+        url: https://zenodo.org/doi/10.5281/zenodo.7085004
   topiccategory:
   - geoscientificInformation
   extents:
