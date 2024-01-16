@@ -5,7 +5,7 @@ metadata:
   language: eng
   charset: utf8
   hierarchylevel: dataset
-  dataseturi: https://doi.org/10.1007/978-94-007-5642-7_6
+  dataseturi: https://zenodo.org/doi/10.5281/zenodo.7085004
 spatial:
   resolution: 1:1.000.000
   datatype: DERIVED Soil Profiles linked to the polygons
