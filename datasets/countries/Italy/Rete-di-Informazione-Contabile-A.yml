@@ -2,21 +2,21 @@ mcf:
   version: 1.0
 metadata:
   identifier: Rete-di-Informazione-Contabile-Agricola-(Farms-Agronomical-Mangement-database)
-  language: eng
+  language: ita
   charset: utf8
-  datestamp: 2022-01-01
+  datestamp: 2025-01-01
   hierarchylevel: dataset
   dataseturi: https://gaia.crea.gov.it/#Rica
 spatial:
   resolution: null
   datatype: NATURAL_POLYGONs, polygons with natural boundaries
 identification:
-  language: null
+  language: ita
   charset: utf8
   title: Rete di Informazione Contabile Agricola (Farms Agronomical Mangement database)
-  abstract: ''
+  abstract: 'La Rete di Informazione Contabile Agricola (RICA) è uno strumento comunitario finalizzato a conoscere la situazione economica dell'agricoltura europea e a programmare e valutare la Politica Agricola Comunitaria (PAC). La RICA, oltre a GAIA, mette a disposizione una serie di strumenti software (qui sotto elencati) realizzati dal Team di Sviluppo del CREA-PB.'
   dates:
-    creation: ''
+    creation: '2003-01-01'
   keywords:
     default:
       keywords:
@@ -31,13 +31,14 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: ''
+    - begin: '2003'
   accessconstraints: otherRestrictions
-  rights: ''
-  maintenancefrequency: null
+  rights: 'All Rights Reserved'
+  maintenancefrequency: continual
 contact:
-  pointOfContact:
+  pointOfContact: Centro di Ricerca Politiche e Bioeconomia
     organization: CREA
+    email: rica.gaia@crea.gov.it
     country: Italy
 dataquality:
   scope:
