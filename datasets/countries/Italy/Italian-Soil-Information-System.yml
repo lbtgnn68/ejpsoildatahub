@@ -4,7 +4,7 @@ metadata:
   identifier: Costantini_2013
   language: eng
   charset: utf8
-  datestamp: 2022-01-01
+  datestamp: 2013-01-01
   hierarchylevel: dataset
   dataseturi: https://doi.org/10.1007/978-94-007-5642-7_6
 spatial:
@@ -12,10 +12,10 @@ spatial:
   datatype: DERIVED Soil Profiles linked to the polygons
   geomtype: ''
 identification:
-  language: ''
+  language: 'eng'
   charset: utf8
-  title: Pedodiversity
-  abstract: 'mainly based on profile sampling '
+  title: The Soils of Italy,  Chapter: Pedodiversity
+  abstract: 'Pedodiversity of Italy, that is, the diversity of soil genetic types, their geographic distribution, and the statistical variability of their properties, is depicted by means of maps and information stored in the national soil database. Soil regions on hills are the most lithologically and climatically variable environments, and host the greatest soil variability and endemisms. A vast majority of the WRB reference soil groups (25 out of 32), as well as soil orders of Soil Taxonomy (10 out of 12), are represented in the main Italian soil typological units (STUs), but the clear skewness and lognormal distribution of STUs demonstrate the utmost endemic nature of many Italian soils. In particular, more than a fourth of STUs belongs to Cambisols, more than a half to only four reference soil groups, and 88 % to nine RSGs, while the remaining 16 RSGs are represented in 12 % of STUs. A similar trend is depicted by considering single soil profile classification, although a larger number of main soil types are represented as soil profiles than as STUs. Ferralsols (Oxisols for Soil Taxonomy) and Durisols are the only main kind of soils that have not yet been found in Italy. Likewise RSGs, the distribution of WRB qualifiers shows an evident concentration in relatively few cases, followed by a long tail. In particular, 138 out of the 180 types foreseen by WRB are represented in Italy. Thus, it is possible to say that in Italy, there is about three quarters of the global pedodiversity. Although the most common qualifiers (that is, Calcaric, Haplic, Skeletic, Eutric) are all related to the nature of parent material and to incipient pedogenesis, a second group (namely Chromic, Calcic, Stagnic, and Luvic) indicates the main soil-forming mechanisms that typify current Italian pedogenesis.'
   dates:
     creation: '2013'
   keywords:
@@ -32,11 +32,11 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: '2013'
-
+    - begin: 1970
+    - end: 2013
   accessconstraints: No restrictions
-  rights: ''
-  maintenancefrequency: null
+  rights: '© 2013 Springer Science+Business Media Dordrecht'
+  maintenancefrequency: none
   status: ''
 contact:
   pointOfContact:
@@ -63,8 +63,8 @@ contact:
   Springer-Netherlands:
     individualname: Springer Netherlands
     role: creator
-  ? ''
-  : individualname: ''
+  World Soils Book Series ((WSBS))''
+  : individualname: 'World Soils Book Series ((WSBS))'
     role: creator
 dataquality:
   scope:
